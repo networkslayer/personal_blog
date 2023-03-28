@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "Derek King's Blog"
 ---
 
-# Hello World
+# Personal Blog
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+A Place to read just the nitty details without the preambles

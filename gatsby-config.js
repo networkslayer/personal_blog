@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Derek King - Personal Blog`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Derek King`,
+      summary: `Personal Blog for things done and learnt that I hope others find useful`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
+    description: `Personal Blog`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `network_slayer1`,
     },
     socialLinks: [
       {
@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         name: "twitter",
-        url: "https://twitter.com",
+        url: "https://twitter.com/network_slayer1",
       },
       {
         name: "instagram",

@@ -1,12 +1,14 @@
 ---
 title: About Mee
 template: about-template
-profile_image: /media/profile-image.jpg
+profile_image: /media/DerekKing.png
 ---
 
-# Hi, I'm John Doe
+# Hi, I'm Derek King
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
+I am currently working for Databricks as a Sr. Staff Security Engineer.
+
+I like to pretend i'll write blog posts so I can remember how I do things, but likely 
+I always forget.
 
 
